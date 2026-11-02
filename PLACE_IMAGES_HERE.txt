@@ -1,2 +1,0 @@
-Add the 5 PNG files and 1 GIF named in the top-level README.md here.
-No source artwork is included.
