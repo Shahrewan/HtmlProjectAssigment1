@@ -77,7 +77,7 @@
   const showcase = document.querySelector(".showcase");
   const showcaseControls = document.querySelector(".showcase-controls");
   const autoplayToggle = document.getElementById("carousel-play-toggle");
-  const slideDuration = 1000;
+  const slideDuration = 2000;
   let currentSlide = 0;
   let carouselTimer = null;
   let userPaused = false;
@@ -87,7 +87,7 @@
     "Game Design & Development",
     "Digital Illustration",
     "Graphic Design",
-    "Character, Prop & UI",
+    "Animation",
     "Web Design",
     "Programming & Data"
   ];
