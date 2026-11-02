@@ -77,7 +77,7 @@
   const showcase = document.querySelector(".showcase");
   const showcaseControls = document.querySelector(".showcase-controls");
   const autoplayToggle = document.getElementById("carousel-play-toggle");
-  const slideDuration = 7000;
+  const slideDuration = 2000;
   let currentSlide = 0;
   let carouselTimer = null;
   let userPaused = false;
